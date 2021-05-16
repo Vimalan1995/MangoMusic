@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MangoMusic/static/css/main.4fc7e4bf.chunk.css",
+    "main.js": "/MangoMusic/static/js/main.aafe3b8c.chunk.js",
+    "main.js.map": "/MangoMusic/static/js/main.aafe3b8c.chunk.js.map",
+    "runtime-main.js": "/MangoMusic/static/js/runtime-main.34e87bef.js",
+    "runtime-main.js.map": "/MangoMusic/static/js/runtime-main.34e87bef.js.map",
+    "static/js/2.e30f94cc.chunk.js": "/MangoMusic/static/js/2.e30f94cc.chunk.js",
+    "static/js/2.e30f94cc.chunk.js.map": "/MangoMusic/static/js/2.e30f94cc.chunk.js.map",
+    "index.html": "/MangoMusic/index.html",
+    "static/css/main.4fc7e4bf.chunk.css.map": "/MangoMusic/static/css/main.4fc7e4bf.chunk.css.map",
+    "static/js/2.e30f94cc.chunk.js.LICENSE.txt": "/MangoMusic/static/js/2.e30f94cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34e87bef.js",
+    "static/js/2.e30f94cc.chunk.js",
+    "static/css/main.4fc7e4bf.chunk.css",
+    "static/js/main.aafe3b8c.chunk.js"
+  ]
+}
